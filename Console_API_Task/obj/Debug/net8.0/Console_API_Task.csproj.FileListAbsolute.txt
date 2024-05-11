@@ -1,0 +1,15 @@
+C:\Users\tobia\source\repos\Console_API_Task\Console_API_Task\bin\Debug\net8.0\Console_API_Task.exe
+C:\Users\tobia\source\repos\Console_API_Task\Console_API_Task\bin\Debug\net8.0\Console_API_Task.deps.json
+C:\Users\tobia\source\repos\Console_API_Task\Console_API_Task\bin\Debug\net8.0\Console_API_Task.runtimeconfig.json
+C:\Users\tobia\source\repos\Console_API_Task\Console_API_Task\bin\Debug\net8.0\Console_API_Task.dll
+C:\Users\tobia\source\repos\Console_API_Task\Console_API_Task\bin\Debug\net8.0\Console_API_Task.pdb
+C:\Users\tobia\source\repos\Console_API_Task\Console_API_Task\obj\Debug\net8.0\Console_API_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobia\source\repos\Console_API_Task\Console_API_Task\obj\Debug\net8.0\Console_API_Task.AssemblyInfoInputs.cache
+C:\Users\tobia\source\repos\Console_API_Task\Console_API_Task\obj\Debug\net8.0\Console_API_Task.AssemblyInfo.cs
+C:\Users\tobia\source\repos\Console_API_Task\Console_API_Task\obj\Debug\net8.0\Console_API_Task.csproj.CoreCompileInputs.cache
+C:\Users\tobia\source\repos\Console_API_Task\Console_API_Task\obj\Debug\net8.0\Console_API_Task.sourcelink.json
+C:\Users\tobia\source\repos\Console_API_Task\Console_API_Task\obj\Debug\net8.0\Console_API_Task.dll
+C:\Users\tobia\source\repos\Console_API_Task\Console_API_Task\obj\Debug\net8.0\refint\Console_API_Task.dll
+C:\Users\tobia\source\repos\Console_API_Task\Console_API_Task\obj\Debug\net8.0\Console_API_Task.pdb
+C:\Users\tobia\source\repos\Console_API_Task\Console_API_Task\obj\Debug\net8.0\Console_API_Task.genruntimeconfig.cache
+C:\Users\tobia\source\repos\Console_API_Task\Console_API_Task\obj\Debug\net8.0\ref\Console_API_Task.dll
